@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/04/07 17:07:25.212,=D:\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/04/07 17:07:25.658,=D:\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/04/07 19:03:51.776,D:\Projects\chart1.h=D:\Projects\Unit1.h</Transaction>
+    <Transaction>2022/04/07 19:03:51.776,D:\Projects\chart1.dfm=D:\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/07 19:03:51.776,D:\Projects\chart1.cpp=D:\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/04/07 19:04:21.290,D:\Projects\chartproject.h=D:\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/04/07 19:04:45.608,D:\Projects\chartProject1.cbproj=D:\Projects\Project1.cbproj</Transaction>
+    <Transaction>2022/04/07 19:05:18.899,D:\Projects\suspension.cbproj=D:\Projects\chartProject1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
